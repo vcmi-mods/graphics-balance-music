@@ -1,0 +1,6 @@
+{
+    "name" : "Balance: Death Valley Dark Witches Fix",
+    "description" : "I think they shouldn't apply mass weakness to everyone after the attack.",
+    "author" : "Dark Imagine",
+	"depends" : ["death-valley-town"]
+}

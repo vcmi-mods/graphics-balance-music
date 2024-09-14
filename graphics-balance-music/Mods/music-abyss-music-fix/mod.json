@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Abyss Music Fix",
+	"description" : "Normalize abyss town music",
+	"depends" : [	"abyss-town"],
+	"author" : "Dark Imagine",
+	"modType" : "Music"
+}

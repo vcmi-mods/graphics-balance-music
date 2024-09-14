@@ -1,0 +1,8 @@
+{
+	"name" : "Graphics: Death Valley - Bone Giant animation fix",
+	"description" : "Fixes animation speed and footstep sound of bone giants",
+	"author" : "Dark Imagine",
+	"depends" : ["death-valley-town"], 
+	"creatures" : [ "config/deathvalley/creatures/bone-ghost-golem-anim-fix.json" ],
+	"modType" : "Graphical"
+}

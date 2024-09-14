@@ -1,0 +1,40 @@
+{
+	"fairy-town:ftFairy1": {
+		"name": {
+			"plural": "Flower Dragonets",
+			"singular": "Flower Dragonet"
+		},
+		"graphics": {
+			"animation": "fairy/battle/creatures/CFar01DRGN.def",
+			"map": "fairy/map/creatures/mapfairy1DRGN.def",
+			"iconSmall": "fairy/iconsSmall/creatures/fay01DRGN.bmp",
+			"iconLarge": "fairy/iconsBig/creatures/fairy01DRGN.bmp"
+		},
+		"sound": {
+			"attack": "FAERATTK.wav",
+			"defend": "FAERDFND.wav",
+			"killed": "FAERKILL.wav",
+			"move": "PIXIMOVE.wav",
+			"wince": "FAERWNCE.wav"
+		}
+	},
+	"fairy-town:ftFairy2": {
+		"name": {
+			"plural": "Rainbow Dragonets",
+			"singular": "Rainbow Dragonet"
+		},
+		"graphics": {
+			"animation": "fairy/battle/creatures/CFar02DRGN.def",
+			"map": "fairy/map/creatures/mapfairy2DRGN.def",
+			"iconSmall": "fairy/iconsSmall/creatures/fay02DRGN.bmp",
+			"iconLarge": "fairy/iconsBig/creatures/fairy02DRGN.bmp"
+		},
+		"sound": {
+			"attack": "FAERATTK.wav",
+			"defend": "FAERDFND.wav",
+			"killed": "FAERKILL.wav",
+			"move": "PIXIMOVE.wav",
+			"wince": "FAERWNCE.wav"
+		}
+	}
+}

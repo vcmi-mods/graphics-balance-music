@@ -1,0 +1,10 @@
+{
+	"name" : "Compatibility: Asylum Nightmares Rename",
+	"description" : "Because there are already Nightmare in Refugee.",
+	"author" : "Dark Imagine", 
+	"modType" : "Graphical",
+	"depends" : ["asylum-town"],
+	"factions" : [ "config/asylum/town/town-nightmare-rename.json" ],
+	"creatures" : [ "config/asylum/creatures/asnightmare-nightmare-rename.json" ],
+	"heroes" : [ "config/asylum/heroes/G_stacia-nightmare-rename.json" ]
+}

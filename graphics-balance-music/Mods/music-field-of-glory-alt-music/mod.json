@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Field of Glory Alt Music",
+	"description" : "Alternative music for FoG",
+	"depends" : ["newtown-terrains.fieldGloryTerrain"],
+	"author" : "Dark Imagine",
+	"modType" : "Music"
+}

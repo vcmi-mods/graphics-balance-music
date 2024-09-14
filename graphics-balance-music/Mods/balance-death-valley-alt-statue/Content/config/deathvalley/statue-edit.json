@@ -1,0 +1,19 @@
+{
+	"death-valley-town:deathvalley": {
+		"town": {
+			"buildings": {
+				"special2": {
+					"description": "The Death Knight Statuary adds +2 to Luck for visiting hero.",
+					"name": "Death Knight Statuary",
+					"onVisitBonuses": [
+						{
+							"duration": "ONE_WEEK",
+							"type": "LUCK",
+							"val": 2
+						}
+					]
+				}
+			}
+		}
+	}
+}

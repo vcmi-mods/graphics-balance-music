@@ -1,0 +1,22 @@
+{
+    "name" : "Collection of fixes and spices for mods",
+    "description" : "Collection of various fixes and other things",
+    "author" : "Dark Imagine",
+    "modType" : "Other",
+    "version" : "1.06",
+    "contact" : "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
+	"compatibility" :
+	{
+		"min" : "1.5.0"
+	},
+    "changelog" :
+    {
+		"1.06"   : [ "Add mods: Damned Utopia Rebalance, Grove Grovekeeper fix, Death Valley Dark Witches Fix" ],
+	    "1.05"   : [ "Fixes crash in Useful Buildings - Cove, Forge and Contryard, lazy but works, added volume for deadland music" ],
+		"1.04"   : [ "Structured all mods for convenience, add mods: Iceland Ambience Music, Heather Thicket Alt Music, Alternative music for FoG, Deadland Normalized Music" ],
+		"1.03"   : [ "Fix dragonets sound" ],
+		"1.02"   : [ "Fix lazy in Bone Giant animation fix, Fairy Alternative 1lvl, Refugee Alternative 6lvl-1A, Rename TOW Couatl, fix bassboosted death valley track, add mods - Asylum Rename Nightmares and Death Valley Alt Statue" ],
+		"1.01"   : [ "Fix large dragonets icons" ],
+        "1.0"   : [ "Initial release" ]
+    }
+}

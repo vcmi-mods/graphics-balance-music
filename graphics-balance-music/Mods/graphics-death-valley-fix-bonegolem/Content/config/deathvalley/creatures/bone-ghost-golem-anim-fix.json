@@ -1,0 +1,22 @@
+{
+	"death-valley-town:bonegolem": {
+		"graphics" : {
+			"animationTime" : {
+				"walk" : 0.85 
+			}
+		},
+		"sound" : {
+			"move": "LTITMOVE.wav"
+		}
+	},
+	"death-valley-town:ghostgolem": {
+		"graphics" : {
+			"animationTime" : {
+				"walk" : 0.85 
+			}
+		},
+		"sound" : {
+			"move": "LTITMOVE.wav"
+		}
+	}
+}

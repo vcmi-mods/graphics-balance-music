@@ -1,0 +1,31 @@
+{
+	"grove:grovekeeper":
+	{
+		"damage" :
+		{
+			 "max" : 5,
+			 "min" : 3
+		},
+		"shots" : 24,
+		"speed" : 10,
+		"abilities" :
+		{
+			"canShoot" :
+			{
+				"type" : "SHOOTER"
+			},
+			"additionalAttack" :
+			{
+				"type" : "ADDITIONAL_ATTACK",
+				"val" : 1
+			},
+			"dispellHelpful" :
+			{
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.dispelHelpful",
+				"val" : 100,
+				"addInfo" : [1, 1]
+			}
+		}
+	}
+}

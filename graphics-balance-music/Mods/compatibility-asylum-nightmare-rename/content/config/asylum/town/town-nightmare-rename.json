@@ -1,0 +1,11 @@
+{
+	"asylum-town:asylum": {
+		"town": {
+			"buildings": {
+				"dwellingLvl6": {
+					"description": "The Psychedelic Forest allows you to recruit Planar Steeds."
+				}
+			}
+		}
+	}
+}

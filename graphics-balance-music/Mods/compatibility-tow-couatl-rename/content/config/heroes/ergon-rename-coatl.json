@@ -1,0 +1,14 @@
+{
+	"tides-of-war.heroes:mdtErgon" :
+	{
+		"texts" :
+		{
+			"specialty" :
+			{
+				"name" : "Amphiptherians",
+				"description" : "{Amphiptherians and Furious Amphiptherians}\r\n\r\nIncreases the Attack and Defense skills of any Amphiptherians and Furious Amphiptherians for each level attained after 6th level. Additionally, Amphiptherians and Furious Amphiptherians get a permanent +1 Speed bonus.",
+				"tooltip" : "Creature bonus: Amphiptera"
+			}
+		}
+	}
+}

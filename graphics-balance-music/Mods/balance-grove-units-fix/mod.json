@@ -1,0 +1,7 @@
+{
+    "name" : "Balance: Grove Grovekeeper fix",
+    "description" : "It’s very strange that the Grovekeeper lost the ability to shoot twice and became slower, I corrected this misunderstanding",
+    "author" : "Dark Imagine",
+	"depends" : ["grove"],
+	"creatures" : [ "config/grove/creatures/groveguardkeeper_edit.json" ]
+}

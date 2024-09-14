@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Death Valley Alt Music",
+	"description" : "AI music for Death Valley like a Refugee town",
+	"author" : "Dark Imagine",
+	"depends" : ["death-valley-town"], 
+	"modType" : "Music"
+}

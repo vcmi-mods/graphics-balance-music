@@ -1,0 +1,277 @@
+{
+	"core:creatureBank" : 
+	{
+		"types" : 
+		{
+			"damnedUtopia" : 
+			{
+				"name" : "Damned Utopia",
+				"templates" : {
+					"base" : { 
+					"animation" : "damnedUtopia", 
+					"visitableFrom" : [ "+++", "+++", "+++" ], 
+					"allowedTerrains": [ "subterra", "dirt", "rough", "deadland" ], 
+					"mask" : [ "VVVVVVV", "VVVVVVV", "VVVBBBB", "VBBBBBV", "VVVBBAV" ]
+					}
+				},
+				"rmg" : {
+					"value"		: 7500,
+					"rarity"	: 75
+				},
+				"levels": [
+				{
+					"chance": 2,
+					"guards": [
+							{ "amount": 16, "type" : "boneDragon" },
+							{ "amount": 8, "type" : "ghostDragon" },
+							{ "amount": 4, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedDracolich" },
+							{ "amount": 1, "type" : "damnedDracolich" }							
+					],
+				"combat_value": 30000,
+					"reward" : {
+						"value": 20000,
+							"resources": 
+							{
+								"gold" : 30000
+							},
+							"creatures" : [ {"amount": 1, "type": "damnedDracolich" } ],
+							"artifacts": [ { "class" : "RELIC" }, { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "blackshardOfTheDeadKnight" ]	
+						}
+					},
+					{
+					"chance": 2,
+					"guards": [
+							{ "amount": 16, "type" : "boneDragon" },
+							{ "amount": 8, "type" : "ghostDragon" },
+							{ "amount": 4, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedDracolich" },
+							{ "amount": 1, "type" : "damnedDracolich" }							
+					],
+				"combat_value": 30000,
+					"reward" : {
+						"value": 20000,
+							"resources": 
+							{
+								"gold" : 30000
+							},
+							"creatures" : [ {"amount": 1, "type": "damnedDracolich" } ],
+							"artifacts": [ { "class" : "RELIC" }, { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "shieldOfTheYawningDead" ]	
+
+						}
+					},
+					{
+					"chance": 2,
+					"guards": [
+							{ "amount": 16, "type" : "boneDragon" },
+							{ "amount": 8, "type" : "ghostDragon" },
+							{ "amount": 4, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedDracolich" },
+							{ "amount": 1, "type" : "damnedDracolich" }							
+					],
+				"combat_value": 30000,
+					"reward" : {
+						"value": 20000,
+							"resources": 
+							{
+								"gold" : 30000
+							},
+							"creatures" : [ {"amount": 1, "type": "damnedDracolich" } ],
+							"artifacts": [ { "class" : "RELIC" }, { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "skullHelmet" ]	
+
+						}
+					},
+					{
+					"chance": 2,
+					"guards": [
+							{ "amount": 16, "type" : "boneDragon" },
+							{ "amount": 8, "type" : "ghostDragon" },
+							{ "amount": 4, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedDracolich" },
+							{ "amount": 1, "type" : "damnedDracolich" }							
+					],
+				"combat_value": 30000,
+					"reward" : {
+						"value": 20000,
+							"resources": 
+							{
+								"gold" : 30000
+							},
+							"creatures" : [ {"amount": 1, "type": "damnedDracolich" } ],
+							"artifacts": [ { "class" : "RELIC" }, { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "ribCage" ]	
+
+						}
+					},
+					{
+						"chance": 5,
+						"guards": [
+								{ "amount": 12, "type" : "boneDragon" },
+								{ "amount": 6, "type" : "ghostDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 1, "type" : "damnedDracolich" }			
+						],
+					"combat_value": 20000,
+						"reward" : {
+							"value": 15000,
+								"resources": 
+								{
+									"gold" : 20000
+								},
+								"creatures" : [ {"amount": 4, "type": "damnedBloodDragon" } ],
+								"artifacts": [ { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "blackshardOfTheDeadKnight" ]			
+	
+							}
+						},
+						{
+						"chance": 5,
+						"guards": [
+								{ "amount": 12, "type" : "boneDragon" },
+								{ "amount": 6, "type" : "ghostDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 1, "type" : "damnedDracolich" }			
+						],
+					"combat_value": 20000,
+						"reward" : {
+							"value": 15000,
+								"resources": 
+								{
+									"gold" : 20000
+								},
+								"creatures" : [ {"amount": 4, "type": "damnedBloodDragon" } ],
+								"artifacts": [ { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MINOR" }, "shieldOfTheYawningDead" ]			
+	
+							}
+						},
+						{
+						"chance": 5,
+						"guards": [
+								{ "amount": 12, "type" : "boneDragon" },
+								{ "amount": 6, "type" : "ghostDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 1, "type" : "damnedDracolich" }			
+						],
+					"combat_value": 20000,
+						"reward" : {
+							"value": 15000,
+								"resources": 
+								{
+									"gold" : 20000
+								},
+								"creatures" : [ {"amount": 4, "type": "damnedBloodDragon" } ],
+								"artifacts": [ { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "skullHelmet" ]			
+	
+							}
+						},
+						{
+						"chance": 5,
+						"guards": [
+								{ "amount": 12, "type" : "boneDragon" },
+								{ "amount": 6, "type" : "ghostDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 2, "type" : "damnedBloodDragon" },
+								{ "amount": 1, "type" : "damnedDracolich" }			
+						],
+					"combat_value": 20000,
+						"reward" : {
+							"value": 15000,
+								"resources": 
+								{
+									"gold" : 20000
+								},
+								"creatures" : [ {"amount": 4, "type": "damnedBloodDragon" } ],
+								"artifacts": [ { "class" : "RELIC" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "ribCage" ]			
+	
+							}
+						},
+					{
+						"chance": 15,
+						"guards": [
+							{ "amount": 8, "type" : "boneDragon" },
+							{ "amount": 6, "type" : "ghostDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" },	
+							{ "amount": 1, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" }								
+						],
+					"combat_value": 10000,
+						"reward" : {
+							"value": 5000,
+								"resources": 
+								{
+									"gold" : 10000
+								},
+								"creatures" : [ { "amount": 4, "type": "ghostDragon" } ],
+								"artifacts": [ { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "blackshardOfTheDeadKnight" ]		
+	
+							}
+						},
+						{
+						"chance": 15,
+						"guards": [
+							{ "amount": 8, "type" : "boneDragon" },
+							{ "amount": 6, "type" : "ghostDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" },	
+							{ "amount": 1, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" }								
+						],
+					"combat_value": 10000,
+						"reward" : {
+							"value": 5000,
+								"resources": 
+								{
+									"gold" : 10000
+								},
+								"creatures" : [ { "amount": 4, "type": "ghostDragon" } ],
+								"artifacts": [ { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "shieldOfTheYawningDead" ]		
+	
+							}
+						},
+						{
+						"chance": 15,
+						"guards": [
+							{ "amount": 8, "type" : "boneDragon" },
+							{ "amount": 6, "type" : "ghostDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" },	
+							{ "amount": 1, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" }								
+						],
+					"combat_value": 10000,
+						"reward" : {
+							"value": 5000,
+								"resources": 
+								{
+									"gold" : 10000
+								},
+								"creatures" : [ { "amount": 4, "type": "ghostDragon" } ],
+								"artifacts": [ { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "skullHelmet" ]		
+	
+							}
+						},
+						{
+						"chance": 15,
+						"guards": [
+							{ "amount": 8, "type" : "boneDragon" },
+							{ "amount": 6, "type" : "ghostDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" },	
+							{ "amount": 1, "type" : "damnedBloodDragon" },
+							{ "amount": 1, "type" : "damnedBloodDragon" }								
+						],
+					"combat_value": 10000,
+						"reward" : {
+							"value": 5000,
+								"resources": 
+								{
+									"gold" : 10000
+								},
+								"creatures" : [ { "amount": 4, "type": "ghostDragon" } ],
+								"artifacts": [ { "class" : "MAJOR" }, { "class" : "MAJOR" }, { "class" : "MAJOR" }, "ribCage" ]		
+	
+							}
+						}
+				]
+			}
+		}
+	}
+}

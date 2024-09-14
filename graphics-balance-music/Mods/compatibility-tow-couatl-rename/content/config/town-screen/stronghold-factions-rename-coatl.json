@@ -1,0 +1,19 @@
+{
+	"core:stronghold" :
+	{
+		"town" :
+		{
+			"buildings" :
+			{
+				"dwellingLvl6B" :
+				{
+					"description" : "The Ziggurat allows you to recruit Amphiptherians."
+				},
+				"dwellingUpLvl6B" :
+				{
+					"description" : "The Ziggurat allows you to recruit Furious Amphiptherians."
+				}
+			}
+		}
+	}
+}

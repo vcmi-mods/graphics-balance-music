@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Tartarus Alt Music",
+	"description" : "AI music for tartarus",
+	"author" : "Dark Imagine",
+	"depends" : ["tartarus-town"],
+	"modType" : "Music"
+}

@@ -1,0 +1,14 @@
+{
+	"tides-of-war.alternative-creatures:mdtCouatl": {
+		"name": {
+			"singular": "Amphiptera",
+			"plural": "Amphiptherians"
+		}
+	},
+	"tides-of-war.alternative-creatures:mdtQuetzalcouatl": {
+		"name": {
+			"singular": "Furious Amphiptera",
+			"plural": "Furious Amphiptherians"
+		}
+	}
+}

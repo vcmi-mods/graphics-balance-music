@@ -1,0 +1,8 @@
+{
+    "name" : "Graphics: Grove Alt Hero Portraits",
+    "description" : "Replaces Grove random portraits from the game with random portraits from the internet.",
+    "author" : "Artists, Dark Imagine",
+    "modType" : "Graphical",
+	"depends" : ["grove"], 
+	"contact" : "https://www.google.com/"
+}

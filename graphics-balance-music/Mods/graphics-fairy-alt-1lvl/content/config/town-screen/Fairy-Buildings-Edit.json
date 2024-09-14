@@ -1,0 +1,20 @@
+{
+	"fairy-town:fairy": {
+		"town": {
+			"buildings": {
+				"horde2": {
+					"description": "The Magic Shroom increases Flower Dragonets production by 8 per week."
+				},
+				"horde2Upgr": {
+					"description": "The Magic Shroom increases Rainbow Dragonets production by 8 per week."
+				},
+				"dwellingLvl1": {
+					"description": "Arcane Blossom allows you to recruit Flower Dragonets."
+				},
+				"dwellingUpLvl1": {
+					"description": "Upg. Arcane Blossom allows you to recruit Rainbow Dragonets."
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Stardust Alt Music",
+	"description" : "Now you will hear music in stardust",
+	"depends" : ["newtown-terrains.stardustTerrain"],
+	"author" : "Dark Imagine",
+	"modType" : "Music"
+}

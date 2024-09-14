@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Deadland Normalized Music",
+	"description" : "Now you will hear music in deadland",
+	"depends" : ["newtown-terrains.deadlandTerrain"],
+	"author" : "Dark Imagine",
+	"modType" : "Music"
+}

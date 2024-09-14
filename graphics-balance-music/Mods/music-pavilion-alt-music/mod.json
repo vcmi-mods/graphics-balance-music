@@ -1,0 +1,7 @@
+{
+	"name" : "Music: Pavilion Alt Music",
+	"description" : "Slightly less strange music in Pavilion, I took it from some game and I forgot what kind of game it was...",
+	"author" : "Dark Imagine",
+	"depends" : ["new-pavilion"],
+	"modType" : "Music"
+}

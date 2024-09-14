@@ -1,0 +1,23 @@
+{
+	"factory:factory": {
+		"town": {
+			"buildings": {
+				"special1": {
+					"description": "Bank earns your kingdom 350 gold per day.",
+					"name": "Bank",
+					"cost": {
+						"gold": 2500,
+						"ore": 10
+					},
+					"requires": [
+						"marketplace"
+					],
+					"produce": {
+						"gold": 350
+					},
+					"id": 21
+				}
+			}
+		}
+	}
+}

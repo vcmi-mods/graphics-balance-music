@@ -1,0 +1,8 @@
+{
+	"name" : "Music: No opera in Asylum",
+	"description" : "NO MORE AAAAHH IN YOUR TOWN",
+	"author" : "Dark Imagine",
+	"depends" : ["asylum-town"],
+	"modType" : "Music"
+	
+}

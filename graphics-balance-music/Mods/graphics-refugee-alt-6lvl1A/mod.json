@@ -1,0 +1,8 @@
+{
+	"name" : "Graphics: Refugee Alternative 6lvl-1A",
+	"description" : "The city is great, but the stupid thaumaturge cap infuriates me, so I replaced it with a retexture of the enchanter.",
+	"author" : "Dark Imagine",
+	"depends" : ["refugee-town"],
+	"creatures" : [ "config/RFGCL6A1-edit-for-retexture.json" ],
+	"modType" : "Graphical"
+}
