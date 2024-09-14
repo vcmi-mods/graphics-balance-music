@@ -4,6 +4,7 @@
     "author" : "Dark Imagine",
     "modType" : "Other",
     "version" : "1.06",
+	"keepDisabled" : true,
     "contact" : "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
 	"compatibility" :
 	{
