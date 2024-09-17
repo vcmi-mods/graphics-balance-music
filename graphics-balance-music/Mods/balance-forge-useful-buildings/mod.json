@@ -1,7 +1,0 @@
-{
-    "name" : "Balance: MDT Forge Useful Buildings",
-    "description" : "Adds effects to buildings that do not currently have effects implemented. Grail included",
-    "author" : "Dark Imagine",
-    "modType" : "Town",
-	"depends" : ["forge"]
-}

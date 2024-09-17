@@ -1,8 +1,0 @@
-{
-    "name" : "Balance: Abyss Useful Buildings",
-    "description" : "Adds effects to grail.",
-    "author" : "Dark Imagine",
-    "modType" : "Town",
-	"depends" : ["abyss-town"],
-	"factions" : [ "config/abyss/town-edit.json" ]
-}

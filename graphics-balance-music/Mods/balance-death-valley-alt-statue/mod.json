@@ -1,7 +1,0 @@
-{
-    "name" : "Balance: Death Valley Alt Statue Effect",
-    "description" : "Changes the effect of the statue to something suitable for the undead",
-    "author" : "Dark Imagine",
-	"depends" : ["death-valley-town"],
-	"factions" : [ "config/deathvalley/statue-edit.json" ]
-}

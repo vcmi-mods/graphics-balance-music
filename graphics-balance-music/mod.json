@@ -3,7 +3,7 @@
     "description" : "Collection of various fixes and other things",
     "author" : "Dark Imagine",
     "modType" : "Other",
-    "version" : "1.06",
+    "version" : "1.07",
 	"keepDisabled" : true,
     "contact" : "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
 	"compatibility" :
@@ -12,6 +12,7 @@
 	},
     "changelog" :
     {
+		"1.07"   : [ "Some submods cleaning because proposed fixes were applied to original mods" ],
 		"1.06"   : [ "Add mods: Damned Utopia Rebalance, Grove Grovekeeper fix, Death Valley Dark Witches Fix" ],
 	    "1.05"   : [ "Fixes crash in Useful Buildings - Cove, Forge and Contryard, lazy but works, added volume for deadland music" ],
 		"1.04"   : [ "Structured all mods for convenience, add mods: Iceland Ambience Music, Heather Thicket Alt Music, Alternative music for FoG, Deadland Normalized Music" ],
