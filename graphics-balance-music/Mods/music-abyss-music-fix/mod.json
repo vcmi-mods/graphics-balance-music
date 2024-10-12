@@ -3,5 +3,5 @@
 	"description" : "Normalize abyss town music",
 	"depends" : [	"abyss-town"],
 	"author" : "Dark Imagine",
-	"modType" : "Music"
+    "modType" : "Compatibility"
 }

@@ -2,7 +2,7 @@
 	"name" : "Graphics: Fairy Alternative 1lvl",
 	"description" : "Because there are already fairies in Conflux, and in Faires there will be dragonets.",
 	"author" : "Dark Imagine", 
-	"modType" : "Graphical",
+    "modType" : "Compatibility",
 	"depends" : ["fairy-town"],
 	"factions" : [ "config/town-screen/Fairy-Buildings-Edit.json" ],
 	"creatures" : [ "config/creatures/rename-fairy.json" ],

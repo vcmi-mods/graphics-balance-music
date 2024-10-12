@@ -3,5 +3,5 @@
 	"description" : "AI music for Death Valley like a Refugee town",
 	"author" : "Dark Imagine",
 	"depends" : ["death-valley-town"], 
-	"modType" : "Music"
+    "modType" : "Compatibility"
 }

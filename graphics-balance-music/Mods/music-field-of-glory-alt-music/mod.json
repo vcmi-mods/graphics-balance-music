@@ -3,5 +3,5 @@
 	"description" : "Alternative music for FoG",
 	"depends" : ["newtown-terrains.fieldGloryTerrain"],
 	"author" : "Dark Imagine",
-	"modType" : "Music"
+    "modType" : "Compatibility"
 }

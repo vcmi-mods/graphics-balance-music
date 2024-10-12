@@ -2,5 +2,6 @@
     "name" : "Balance: Damned Utopia Rebalance",
     "description" : "Because the armor of the damned is too much, make damned utopia harder",
     "author" : "Dark Imagine",
+    "modType" : "Compatibility",
 	"depends" : ["andruids-expansion.damned utopia"]
 }

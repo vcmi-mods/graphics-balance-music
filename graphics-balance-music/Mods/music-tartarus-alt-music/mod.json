@@ -3,5 +3,5 @@
 	"description" : "AI music for tartarus",
 	"author" : "Dark Imagine",
 	"depends" : ["tartarus-town"],
-	"modType" : "Music"
+    "modType" : "Compatibility"
 }

@@ -2,7 +2,7 @@
     "name" : "Balance: Factory Useful Buildings",
     "description" : "Adds effects to buildings that do not currently have effects implemented.",
     "author" : "Dark Imagine",
-    "modType" : "Town",
+    "modType" : "Compatibility",
 	"depends" : ["factory"],
 	"factions" : [ "config/factory/town-edit.json" ]
 }

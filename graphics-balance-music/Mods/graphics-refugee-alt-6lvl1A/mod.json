@@ -4,5 +4,5 @@
 	"author" : "Dark Imagine",
 	"depends" : ["refugee-town"],
 	"creatures" : [ "config/RFGCL6A1-edit-for-retexture.json" ],
-	"modType" : "Graphical"
+    "modType" : "Compatibility"
 }

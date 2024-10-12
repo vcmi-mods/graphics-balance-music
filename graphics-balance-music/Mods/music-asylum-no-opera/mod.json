@@ -3,6 +3,6 @@
 	"description" : "NO MORE AAAAHH IN YOUR TOWN",
 	"author" : "Dark Imagine",
 	"depends" : ["asylum-town"],
-	"modType" : "Music"
+    "modType" : "Compatibility"
 	
 }

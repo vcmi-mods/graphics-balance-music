@@ -3,5 +3,5 @@
 	"description" : "Alternative music for Heather Thicket",
 	"depends" : ["newtown-terrains.heatherThicket"],
 	"author" : "Dark Imagine",
-	"modType" : "Music"
+    "modType" : "Compatibility"
 }

@@ -2,7 +2,7 @@
     "name" : "Graphics: Fuibax and LiquidValor Original Hero Portraits, Edits",
     "description" : "Replaces portraits for the original heroes.",
     "author" : "Fuibax, LiquidValor",
-    "modType" : "Graphical",
+    "modType" : "Compatibility",
 	"depends" : ["hota.heroes3DataPatch"],
 	"contact" : "https://fuibax.github.io/, https://www.youtube.com/@LiquidValor"
 }

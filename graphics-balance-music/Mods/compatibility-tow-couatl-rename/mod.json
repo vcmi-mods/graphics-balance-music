@@ -2,7 +2,7 @@
 	"name" : "Compatibility: Rename TOW Couatl",
 	"description" : "Rename TOW couatl into Amphiptera to avoid confusion with the factory",
 	"author" : "Dark Imagine", 
-	"modType" : "Graphical",
+    "modType" : "Compatibility",
 	"depends" : ["tides-of-war.alternative-creatures", "tides-of-war.heroes"],
 	"factions" : [ "config/town-screen/stronghold-factions-rename-coatl.json" ],
 	"creatures" : [ "config/creatures/rename-couatl-edit.json" ],
