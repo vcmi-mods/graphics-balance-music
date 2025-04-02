@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Ark Music Fix",
+	"description" :		"Normalize ark town music",
+	"author" :			"Dark Imagine",
+	"depends" : ["ark-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Фикс музыки Арка",
+		"description" : "Нормализация музыки в городе"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

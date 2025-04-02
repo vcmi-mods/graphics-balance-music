@@ -1,7 +1,0 @@
-{
-	"name" : "Music: Iceland Ambience Music",
-	"description" : "Add ambience in Iceland music",
-	"depends" : ["newtown-terrains.icelandTerrain"],
-	"author" : "Dark Imagine",
-    "modType" : "Compatibility"
-}

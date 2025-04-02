@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Death Valley Alt Music",
+	"description" :		"AI music for Death Valley",
+	"author" :			"Dark Imagine",
+	"depends" : ["death-valley-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Альтернативная музыка для Долины Смерти",
+		"description" : "ИИ музыка для Долины Смерти"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

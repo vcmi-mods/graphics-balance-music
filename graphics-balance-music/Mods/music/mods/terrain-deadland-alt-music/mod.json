@@ -1,0 +1,14 @@
+{
+	"name" :			"Terrain: Deadland Alternative Music",
+	"description" :		"Replaces Deadlands Terrain music with M&M 6 music",
+	"author" :			"Dark Imagine",
+ 	"depends" : ["newtown-terrains.deadlandTerrain"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Tерритория: Альтернативная музыка для Места Смерти",
+		"description" : "Заменяет музыку из Места Смерти на музыку из M&M 6"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

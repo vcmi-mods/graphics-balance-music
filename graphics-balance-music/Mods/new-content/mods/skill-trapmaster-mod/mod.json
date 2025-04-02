@@ -1,0 +1,24 @@
+{
+	"name" : "Skill: Trapmaster",
+	"description" : "Adds a new skill - Trap Master, creates a spike traps and bear traps at the beginning of the battle",
+	"author": "Dark Imagine",
+    "modType" : "Skills",
+	"russian" : {
+		"name" : "Навык: Мастер Ловушек",
+		"description" : "Добавляет новый навык - Мастер Ловушек, в начале боя создает ловушки с шипами и капканы",
+		"translations" : [
+			"translation/skill-trapmaster/russian.json"
+		]
+	},
+
+	"skills" :
+	[
+		"config/skills/TrapMaster.json"
+	],
+	"spells" :
+	[
+		"config/spells/quicktrap.json",
+		"config/spells/spikepit.json",
+		"config/spells/spiketrigger.json"
+	]
+}

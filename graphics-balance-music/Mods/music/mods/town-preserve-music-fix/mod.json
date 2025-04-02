@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Preserve Music Fix",
+	"description" :		"Normalize preserve town music",
+	"author" :			"Dark Imagine",
+	"depends" : ["preserve-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Фикс музыки Заповедника",
+		"description" : "Нормализация музыки в городе"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

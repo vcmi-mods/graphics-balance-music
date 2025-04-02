@@ -1,0 +1,22 @@
+{
+	"haven-town:haven": {
+		"town": {
+			"buildings": {
+				"dwellingLvl1": {
+					"description": "Stockpile allows you to recruit Rats."
+				},
+				"dwellingUpLvl1": {
+					"description": "Upg. Stockpile allows you to recruit Battle Rats."
+				},
+				"dwellingLvl2": {
+					"description": "Reef Caves allows you to recruit Wererats.",
+					"name" : "Reef Caves"
+				},
+				"dwellingUpLvl2": {
+					"description": "Upg. Reef Caves allows you to recruit Wererat Ragers.",
+					"name" : "Upg. Reef Caves"
+				}
+			}
+		}
+	}
+}

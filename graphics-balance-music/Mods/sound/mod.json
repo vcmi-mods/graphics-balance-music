@@ -1,0 +1,10 @@
+{
+	"name" : "Sound",
+	"description" : "Sound fixes and replaces",
+	"author" : "Dark Imagine",
+	"modType" : "Other",
+	"russian" : {
+		"name" : "Звуки",
+		"description" : "Фиксы звуков и замена звуков"
+	}
+}

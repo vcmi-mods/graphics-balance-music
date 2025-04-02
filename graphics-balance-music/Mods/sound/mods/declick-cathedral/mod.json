@@ -1,0 +1,14 @@
+{
+	"name" :			"Fixes: Declick Cathedral Units",
+	"description" :		"Declick sound for units",
+	"author" :			"Dark Imagine",
+	"depends" : ["cathedral-town"],
+	"modType" :			"Creatures",
+	"russian" : {
+		"name" : "Фиксы: Антикликер для юнитов из Собора",
+		"description" : "Убирает раздражающие клики в звуках Юнитов"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

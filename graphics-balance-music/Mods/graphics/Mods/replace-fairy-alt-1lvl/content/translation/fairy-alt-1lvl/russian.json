@@ -1,0 +1,15 @@
+{
+    "building.fairy-town.fairy.dwellingLvl1.description": "Чародейский цветок используется для вербовки Цветочных дракончиков.",
+    "building.fairy-town.fairy.dwellingUpLvl1.description": "Чародейский цветок используется для вербовки Радужных дракончиков.",
+    "building.fairy-town.fairy.horde2.description": "Волшебный гриб увеличивает производство Цветочных дракончиков на 8 в неделю.",
+    "building.fairy-town.fairy.horde2Upgr.description": "Волшебный гриб увеличивает производство Радужных дракончиков на 8 в неделю.",
+    "creatures.fairy-town.ftFae1.name.plural": "Цветочные дракончики",
+    "creatures.fairy-town.ftFae1.name.singular": "Цветочный дракончик",
+    "creatures.fairy-town.ftFae2.name.plural": "Радужные дракончики",
+    "creatures.fairy-town.ftFae2.name.singular": "Радужный дракончик",
+    "hero.fairy-town.ftI_Zerela.biography": "Ванесса — одна из самых храбрых фей на земле. Она возглавляет своих дракончиков, живущих на лугах, в самых смелых миссиях и вдохновляет их на величие в бою.",
+    "hero.fairy-town.ftI_Zerela.name": "Ванесса",
+    "hero.fairy-town.ftI_Zerela.specialty.description": "Увеличивает атакующие и защитные способности Цветочных Дракончиков и Радужных Дракончиков с каждым уровнем, полученным после 1-го уровня.",
+    "hero.fairy-town.ftI_Zerela.specialty.name": "Дракончики",
+    "hero.fairy-town.ftI_Zerela.specialty.tooltip": "{Дракончики}\r\n\r\nУвеличивает атакующие и защитные способности Цветочных Дракончиков и Радужных Дракончиков."
+}

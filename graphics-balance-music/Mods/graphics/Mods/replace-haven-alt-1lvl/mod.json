@@ -1,0 +1,22 @@
+{
+	"name" : "Replace: Haven Alternative T1 and T2",
+	"description" : "Replace T1 to Rats and Replace T2 to Wererats",	
+	"author" : "Dark Imagine",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},	
+	"modType" : "Graphical",	
+	"depends" : ["haven-town"], 
+	"russian" : {
+		"name" : "Замена: Гавань - Альтернативные T1 и T2 юниты",
+		"description" : "Заменяет T1 на Крыс и T2 на Крысооборотней",
+		"translations" : [
+			"translation/haven-rats/russian.json"
+		]
+	},
+    "factions" : [ "config/town/Haven-Buildings-Edit.json" ],
+	"creatures" : [ "config/creatures/replace-t1.json",
+                    "config/creatures/replace-t2.json"	],
+	"heroes" : [ "config/heroes/ReplaceHavHeroes.json" ]
+}

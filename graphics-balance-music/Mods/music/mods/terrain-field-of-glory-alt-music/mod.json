@@ -1,0 +1,14 @@
+{
+	"name" :			"Terrain: Field of Glory Alt Music",
+	"description" :		"Replaces Field of Glory Terrain music with M&M 6 music",
+	"author" :			"Dark Imagine",
+	"depends" : ["newtown-terrains.fieldGloryTerrain"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Tерритория: Альтернативная музыка для Места Славы",
+		"description" : "Заменяет музыку из Места Славы на музыку из M&M 6"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

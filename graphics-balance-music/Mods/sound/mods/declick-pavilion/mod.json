@@ -1,0 +1,14 @@
+{
+	"name" :			"Fixes: Declick Pavilion Units",
+	"description" :		"Declick sound for units",
+	"author" :			"Dark Imagine",
+	"depends" : ["new-pavilion"],
+	"modType" :			"Creatures",
+	"russian" : {
+		"name" : "Фиксы: Антикликер для юнитов из Павильона",
+		"description" : "Убирает раздражающие клики в звуках Юнитов"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

@@ -1,0 +1,10 @@
+{
+	"name" : "Compatibility",
+	"description" : "Some compatibility fixes",
+	"author" : "Dark Imagine",
+	"modType" : "Other",
+	"russian" : {
+		"name" : "Совместимость",
+		"description" : "Всяческие фиксы для совместимости"
+	}
+}

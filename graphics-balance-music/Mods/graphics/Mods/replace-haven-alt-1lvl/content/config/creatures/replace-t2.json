@@ -1,0 +1,40 @@
+{
+	"haven-town:havC03": {
+		"name": {
+			"plural": "Wererats",
+			"singular": "Wererat"
+		},
+		"graphics": {
+			"animation" : "haven/battle/Hav01.def",
+			"map" : "haven/map/AVWHAV01.def",
+			"iconSmall" : "haven/iconsSmall/port1S.bmp",
+			"iconLarge" : "haven/iconsBig/port1.bmp",
+		},
+		"sound": {
+			"attack" : "haven/CHV1ATTK.wav",
+			"defend" : "haven/CHV1DFND.wav",
+			"killed" : "haven/CHV1KILL.wav",
+			"move": "haven/CHV1MOVE.wav",
+			"wince" : "haven/CHV1WNCE.wav"
+		}
+	},
+	"haven-town:havC04": {
+		"name": {
+			"plural": "Wererat Ragers",
+			"singular": "Wererat Rager"
+		},
+		"graphics": {
+			"animation" : "haven/battle/Hav02.def",
+			"map" : "haven/map/AVWHAV02.def",
+			"iconSmall" : "haven/iconsSmall/port2S.bmp",
+			"iconLarge" : "haven/iconsBig/port2.bmp",
+		},
+		"sound": {
+			"attack" : "haven/CHV1ATTK.wav",
+			"defend" : "haven/CHV1DFND.wav",
+			"killed" : "haven/CHV1KILL.wav",
+			"move": "haven/CHV1MOVE.wav",
+			"wince" : "haven/CHV1WNCE.wav"
+		}
+	}
+}

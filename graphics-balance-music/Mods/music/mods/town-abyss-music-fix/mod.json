@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Abyss Music Fix",
+	"description" :		"Normalize abyss town music",
+	"author" :			"Dark Imagine",
+	"depends" : ["abyss-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Фикс музыки Пучины",
+		"description" : "Нормализация музыки в городе"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

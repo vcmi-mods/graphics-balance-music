@@ -1,0 +1,14 @@
+{
+	"name" :			"Fixes: Declick Asylum Units and Replace sound",
+	"description" :		"Declick sound for units and replace sound for T2 and T7",
+	"author" :			"Dark Imagine",
+	"depends" : ["asylum-town"],
+	"modType" :			"Creatures",
+	"russian" : {
+		"name" : "Фиксы: Антикликер для юнитов из Убежища",
+		"description" : "Убирает раздражающие клики в звуках Юнитов также изменяет некоторые звуки для T2 и T7"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

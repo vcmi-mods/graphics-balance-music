@@ -1,0 +1,14 @@
+{
+	"name" :			"Fixes: Declick Tartarus Units and Replace sound",
+	"description" :		"Declick sound for units and replace sound for T5 and T6",
+	"author" :			"Dark Imagine",
+	"depends" : ["tartarus-town"],
+	"modType" :			"Creatures",
+	"russian" : {
+		"name" : "Фиксы: Антикликер для юнитов из Тартаруса",
+		"description" : "Убирает раздражающие клики в звуках Юнитов также изменяет некоторые звуки для T5 и T6"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

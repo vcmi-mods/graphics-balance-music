@@ -1,0 +1,14 @@
+{
+	"name" :			"Terrain: Iceland Ambience Music",
+	"description" :		"Add ambience in Iceland music",
+	"author" :			"Dark Imagine",
+	"depends" : ["newtown-terrains.icelandTerrain"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Tерритория: Амбиент для музыки из Ледяного Покрова",
+		"description" : "Добавляет Амбиент в музыку из Ледяного Покрова"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

@@ -1,0 +1,14 @@
+{
+	"name" :			"Terrain: Stardust Alt Music",
+	"description" :		"Alternative music for Stardust from Heroes 2. Ziggy is proud of you!",
+	"author" :			"Dark Imagine",
+	"depends" : ["newtown-terrains.stardustTerrain"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Tерритория: Альтернативная музыка для Звездной пыли",
+		"description" : "Заменяет музыку Звездной пыли на музыку из Heroes 2. Зигги вами гордится!"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

@@ -1,0 +1,19 @@
+{
+	"name" : "Text: Asylum Nightmares Rename",
+	"description" : "Because there are already Nightmare in Refugee.",	
+	"author" : "Dark Imagine",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},	
+	"modType" : "Other",	
+	"depends" : ["asylum-town"], 
+	"russian" : {
+		"name" : "Текст: Переименование Кошмаров из Убежища (НЕАКТУАЛЬНО ДЛЯ РУССКОГО ПЕРЕВОДА)",
+		"description" : "Переменование Кошмаров из Убежища в Планарных Коней (Неактуально для русского перевода)",
+	},
+    "factions" : [ "config/asylum/town/town-nightmare-rename.json" ],
+	"creatures" : [ "config/asylum/creatures/asnightmare-nightmare-rename.json"	],
+	"heroes" : [ "config/asylum/heroes/G_stacia-nightmare-rename.json" ],
+	"keepDisabled" : true
+}

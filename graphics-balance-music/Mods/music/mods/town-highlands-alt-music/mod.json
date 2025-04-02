@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Highlands Alt Music",
+	"description" :		"Alt music in Highlands from H5",
+	"author" :			"Dark Imagine",
+	"depends" : ["highlands-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Альтернативная музыка для Высокогорья",
+		"description" : "Альтернативная музыка для Высокогорья из H5"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

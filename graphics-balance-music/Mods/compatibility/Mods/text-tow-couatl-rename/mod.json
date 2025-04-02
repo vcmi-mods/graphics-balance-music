@@ -1,0 +1,21 @@
+{
+	"name" : "Text: Rename TOW Couatl",
+	"description" : "Rename TOW couatl into Amphiptera to avoid confusion with the factory",	
+	"author" : "Dark Imagine",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},	
+	"modType" : "Other",	
+	"depends" : ["tides-of-war.alternative-creatures", "tides-of-war.heroes"], 
+	"russian" : {
+		"name" : "Текст: Переименование Коатля из TOW",
+		"description" : "Переменование Коатля из TOW в Амфиптеру во избежания путаницы с Фабрикой",
+		"translations" : [
+			"translation/tow-rename-couatl/russian.json"
+		]
+	},
+    "factions" : [ "config/town-screen/stronghold-factions-rename-coatl.json" ],
+	"creatures" : [ "config/creatures/rename-couatl-edit.json"	],
+	"heroes" : [ "config/heroes/ergon-rename-coatl.json" ]
+}

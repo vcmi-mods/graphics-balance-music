@@ -1,0 +1,15 @@
+{
+	"name" : "Portraits: Grove Alt Hero Portraits",
+	"description" : "Replaces Grove random portraits from the Warcraft 3 with random portraits Night Elves from the internet.",	
+	"author" : "Artists, Dark Imagine",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},	
+	"modType" : "Graphical",	
+	"depends" : ["grove"], 
+	"russian" : {
+		"name" : "Портреты: Альтернативные портреты Рощи",
+		"description" : "Меняет некоторые портреты из игры Warcraft 3 на рандомные портреты Ночных Эльфов из интернета."
+	}
+}

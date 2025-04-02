@@ -1,0 +1,10 @@
+{
+	"name" : "Graphics",
+	"description" : "Some graphics mods",
+	"author" : "Dark Imagine",
+	"modType" : "Graphical",
+	"russian" : {
+		"name" : "Графика",
+		"description" : "Графические моды"
+	}
+}

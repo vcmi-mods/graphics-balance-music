@@ -1,0 +1,44 @@
+{
+	"haven-town:havC01": {
+		"name": {
+			"plural": "Rats",
+			"singular": "Rat"
+		},
+		"graphics": {
+			"animation" : "haven/battle/creatures/Hav01rep.def",
+			"map": "haven/map/creatures/AVWHAV01rep.def",
+			"iconSmall": "haven/iconsSmall/creatures/Port1Srep.bmp",
+			"iconLarge": "haven/iconsBig/creatures/port1rep.bmp"
+		},
+		"sound": {
+			"attack" : "Nrat Attack.wav",
+			"defend" : "Nrat Defend.wav",
+			"killed" : "Nrat Death.wav",
+			"move" : "Nrat Move.wav",
+			"wince" : "Nrat Wince.wav",
+			"startMoving": "Nrat In.wav",
+			"endMoving": "Nrat Out.wav"
+		}
+	},
+	"haven-town:havC02": {
+		"name": {
+			"plural": "Battle Rats",
+			"singular": "Battle Rat"
+		},
+		"graphics": {
+			"animation" : "haven/battle/creatures/Hav02rep.def",
+			"map": "haven/map/creatures/AVWHAV02rep.def",
+			"iconSmall": "haven/iconsSmall/creatures/Port2Srep.bmp",
+			"iconLarge": "haven/iconsBig/creatures/port2rep.bmp"
+		},
+		"sound": {
+			"attack" : "Nrat Attack.wav",
+			"defend" : "Nrat Defend.wav",
+			"killed" : "Nrat Death.wav",
+			"move" : "Nrat Move.wav",
+			"wince" : "Nrat Wince.wav",
+			"startMoving": "Nrat In.wav",
+			"endMoving": "Nrat Out.wav"
+		}
+	}
+}

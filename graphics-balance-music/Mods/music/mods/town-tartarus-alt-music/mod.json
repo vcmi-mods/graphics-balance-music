@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Tartarus Alt Music",
+	"description" :		"AI music for tartarus",
+	"author" :			"Dark Imagine",
+	"depends" : ["tartarus-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Альтернативная музыка для Тартаруса",
+		"description" : "ИИ музыка для Тартаруса"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

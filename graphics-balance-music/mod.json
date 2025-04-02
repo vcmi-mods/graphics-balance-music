@@ -1,17 +1,13 @@
 {
-    "name" : "Collection of fixes and spices for mods",
-    "description" : "Collection of various fixes and other things",
-    "author" : "Dark Imagine",
-    "modType" : "Other",
-    "version" : "1.08",
-	"keepDisabled" : true,
-    "contact" : "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
-	"compatibility" :
+	"name" : "Fixes and Spices",
+	"description" : "Collection of various fixes and other things",
+	"modType" : "Other",	
+	"author" : "Dark Imagine",
+	"contact" : "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
+	"version" : "1.09",
+	"changelog" :
 	{
-		"min" : "1.5.0"
-	},
-    "changelog" :
-    {
+		"1.09"   : [ "Update for new version VCMI, regroup and rename mod, delete not actual balance mods, adding new mods - Declicks sound mods, some music mods, new skill mod, haven unit replace mod. Add russian translation" ],
 		"1.08"   : [ "Better submods compatibility system" ],
 		"1.07"   : [ "Some submods cleaning because proposed fixes were applied to original mods" ],
 		"1.06"   : [ "Add mods: Damned Utopia Rebalance, Grove Grovekeeper fix, Death Valley Dark Witches Fix" ],
@@ -21,5 +17,13 @@
 		"1.02"   : [ "Fix lazy in Bone Giant animation fix, Fairy Alternative 1lvl, Refugee Alternative 6lvl-1A, Rename TOW Couatl, fix bassboosted death valley track, add mods - Asylum Rename Nightmares and Death Valley Alt Statue" ],
 		"1.01"   : [ "Fix large dragonets icons" ],
         "1.0"   : [ "Initial release" ]
-    }
+	}, 
+	"russian" : {
+		"name" : "Фиксы и Приправы",
+		"description" : "Коллекция из разнообразных фиксов и прочих фич."
+	},
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	}
 }

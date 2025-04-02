@@ -1,0 +1,10 @@
+{
+	"name" : "New Content",
+	"description" : "New content for the game",
+	"author" : "Dark Imagine",
+	"modType" : "Expansion",
+	"russian" : {
+		"name" : "Новый Контент",
+		"description" : "Новый контент для игры"
+	}
+}

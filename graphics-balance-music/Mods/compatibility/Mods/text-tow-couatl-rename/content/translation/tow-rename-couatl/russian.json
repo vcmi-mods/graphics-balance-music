@@ -1,0 +1,9 @@
+{
+    "building.tides-of-war.alternative-creatures.stronghold.dwellingLvl6B.description": "Зиккурат используется для вербовки Амфиптер.",
+    "building.tides-of-war.alternative-creatures.stronghold.dwellingUpLvl6B.description": "Зиккурат используется для вербовки Яростных Амфиптер.",
+    "hero.tides-of-war.heroes.mdtErgon.biography": "После того, как Килгор взошел на трон Крюлода, он пригласил Эргона, чтобы подавить восстание огров, которые остались верны Уинстону Борагусу даже после его смерти. Само собой разумеется, что ветеран Войн за Наследие весьма эффективно выполнял свою работу, совершая набеги на непокорные племена со своими экзотическими зверями.",
+    "hero.tides-of-war.heroes.mdtErgon.name": "Эргон",
+    "hero.tides-of-war.heroes.mdtErgon.specialty.description": "{Амфиптеры}\r\n\r\nУвеличивает атакующие и защитные способности всех Амфиптер и Яростных Амфиптер за каждый уровень, который они получают после шестого уровня. Кроме того, Амфиптеры и Яростные Амфиптеры получают постоянный бонус скорости +1.",
+    "hero.tides-of-war.heroes.mdtErgon.specialty.name": "Амфиптеры",
+    "hero.tides-of-war.heroes.mdtErgon.specialty.tooltip": "Бонус существа: Амфиптер"
+}

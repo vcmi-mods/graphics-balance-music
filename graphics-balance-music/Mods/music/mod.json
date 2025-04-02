@@ -1,0 +1,10 @@
+{
+	"name" : "Music",
+	"description" : "Music for Towns and Terrains and music fixes",
+	"author" : "Dark Imagine",
+	"modType" : "Music",
+	"russian" : {
+		"name" : "Музыка",
+		"description" : "Музыка для городов и территории и фиксы некоторой музыки"
+	}
+}

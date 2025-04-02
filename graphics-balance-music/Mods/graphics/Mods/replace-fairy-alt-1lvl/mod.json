@@ -1,0 +1,21 @@
+{
+	"name" : "Replace: Fairy Alternative T1",
+	"description" : "Because there are already fairies in Conflux, and in Faires there will be dragonets.",	
+	"author" : "Dark Imagine",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},	
+	"modType" : "Graphical",	
+	"depends" : ["fairy-town"], 
+	"russian" : {
+		"name" : "Замена: Сказочный Лес - Альтернативный T1 Юнит",
+		"description" : "Так как есть феи в Сопряжении, заменяет фей на дракончиков.",
+		"translations" : [
+			"translation/fairy-alt-1lvl/russian.json"
+		]
+	},
+    "factions" : [ "config/town-screen/Fairy-Buildings-Edit.json" ],
+	"creatures" : [ "config/creatures/rename-fairy.json" ],
+	"heroes" : [ "config/heroes/Vanessa-rename-fairies.json" ]
+}

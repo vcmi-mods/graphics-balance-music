@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Pavilion Alt Music",
+	"description" :		"Slightly less strange music in Pavilion from game Egypt: Old kingdom",
+	"author" :			"Dark Imagine",
+	"depends" : ["new-pavilion"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Альтернативная музыка для Павильона",
+		"description" : "Менее странная музыка в Павильоне из игры Egypt: Old kingdom"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}

@@ -1,0 +1,13 @@
+{
+	"preserve-town:magiceye":
+	{
+		"sound" :
+		{
+			"attack": "preserve/TigerMelee.wav",
+			"defend" : "preserve/TigerFlinch.wav",
+			"killed" : "preserve/TigerDie.wav",
+			"move" : "preserve/TigerWalk.wav",
+			"wince" : "preserve/TigerWNCE.wav"
+		}
+	}
+}

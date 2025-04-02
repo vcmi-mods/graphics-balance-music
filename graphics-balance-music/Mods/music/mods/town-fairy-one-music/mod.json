@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: One music in Fairy Town",
+	"description" :		"There can be only one!",
+	"author" :			"Dark Imagine",
+	"depends" : ["fairy-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Одна музыка в Сказочном Лесу",
+		"description" : "''There can be only one!''"
+	},
+
+"factions" : [ "config/town-screen/Fairy-Buildings-Edit.json" ]
+	"compatibility" :	{"min" : "1.6.0"}
+}

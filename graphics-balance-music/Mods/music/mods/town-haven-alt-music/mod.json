@@ -1,0 +1,14 @@
+{
+	"name" :			"Town: Haven Alt Music",
+	"description" :		"Slightly less happy music in Haven from H1",
+	"author" :			"Dark Imagine",
+	"depends" : ["haven-town"],
+	"modType" :			"Music",
+	"russian" : {
+		"name" : "Город: Альтернативная музыка для Гавани",
+		"description" : "Менее счасливая музыка в Гавани из H1"
+	},
+
+
+	"compatibility" :	{"min" : "1.6.0"}
+}
