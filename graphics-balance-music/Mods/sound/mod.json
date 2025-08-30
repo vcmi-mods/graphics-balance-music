@@ -3,6 +3,8 @@
 	"description" : "Sound fixes and replaces",
 	"author" : "Dark Imagine",
 	"modType" : "Other",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"russian" : {
 		"name" : "Звуки",
 		"description" : "Фиксы звуков и замена звуков"

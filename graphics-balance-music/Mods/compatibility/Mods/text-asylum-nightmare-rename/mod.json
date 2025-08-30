@@ -2,6 +2,8 @@
 	"name" : "Text: Asylum Nightmares Rename",
 	"description" : "Because there are already Nightmare in Refugee.",	
 	"author" : "Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"compatibility" :
 	{
 		"min" : "1.6.0"

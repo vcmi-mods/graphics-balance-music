@@ -22,7 +22,7 @@
 				"range" : "X",
 				"description" : "", //For validation
 				"cost" : 0, //For validation
-				"aiValue" : 0, //For validation
+//				"aiValue" : 0, //For validation
 				"battleEffects" : {
 					"obstacle" : {
 						"type":"core:obstacle",

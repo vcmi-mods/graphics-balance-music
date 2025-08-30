@@ -25,7 +25,7 @@
 				"range" : "0",
 				"description" : "", //For validation
 				"cost" : 0, //For validation
-				"aiValue" : 0, //For validation
+//				"aiValue" : 0, //For validation
 				"battleEffects" : {
 					"directDamage" : {
 						"type":"core:damage"
@@ -80,7 +80,7 @@
 				"range" : "0",
 				"description" : "", //For validation
 				"cost" : 0, //For validation
-				"aiValue" : 0, //For validation
+//				"aiValue" : 0, //For validation
 				"battleEffects" : {
 					"directDamage" : {
 						"type":"core:damage"

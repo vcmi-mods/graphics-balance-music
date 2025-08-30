@@ -3,6 +3,8 @@
 	"description" :		"AI music for Death Valley",
 	"author" :			"Dark Imagine",
 	"depends" : ["death-valley-town"],
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"modType" :			"Music",
 	"russian" : {
 		"name" : "Город: Альтернативная музыка для Долины Смерти",

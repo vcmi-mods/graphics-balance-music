@@ -4,9 +4,10 @@
 	"modType" : "Other",	
 	"author" : "Dark Imagine",
 	"contact" : "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
-	"version" : "1.09",
+	"version" : "1.10",
 	"changelog" :
 	{
+		"1.10"   : [ "Update to vcmi-1.7 format" ],
 		"1.09"   : [ "Update for new version VCMI, regroup and rename mod, delete not actual balance mods, adding new mods - Declicks sound mods, some music mods, new skill mod, haven unit replace mod. Add russian translation" ],
 		"1.08"   : [ "Better submods compatibility system" ],
 		"1.07"   : [ "Some submods cleaning because proposed fixes were applied to original mods" ],
@@ -24,6 +25,6 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.0"
+		"min" : "1.7.0"
 	}
 }

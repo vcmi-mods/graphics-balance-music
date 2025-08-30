@@ -2,6 +2,8 @@
 	"name" :			"Town: Ark Music Fix",
 	"description" :		"Normalize ark town music",
 	"author" :			"Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"depends" : ["ark-town"],
 	"modType" :			"Music",
 	"russian" : {

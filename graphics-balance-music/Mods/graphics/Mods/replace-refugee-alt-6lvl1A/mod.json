@@ -2,6 +2,8 @@
 	"name" : "Replace: Refugee Alternative 6lvl-1A",
 	"description" : "The city is great, but the strange Thaumaturge cap infuriates me, so I replaced it with a retexture of the enchanter.",
 	"author" : "Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",
 	"compatibility" :
 	{
 		"min" : "1.6.0"
@@ -10,7 +12,7 @@
 	"russian" : {
 		"name" : "Замена: Альтернативный T6-1 в Приюте",
 		"description" : "Прекрастный город, но вот эти странные шапки у Тауматургов меня напрягают, я изменил их на ретекстур Чародеев",
-	}
+	},
 	"depends" : ["refugee-town"],
 	"creatures" : [ "config/RFGCL6A1-edit-for-retexture.json" ]
 }

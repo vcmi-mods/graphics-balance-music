@@ -2,6 +2,8 @@
 	"name" : "Music",
 	"description" : "Music for Towns and Terrains and music fixes",
 	"author" : "Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"modType" : "Music",
 	"russian" : {
 		"name" : "Музыка",

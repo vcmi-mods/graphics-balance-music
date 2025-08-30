@@ -21,7 +21,7 @@
 			"base":{
 				"description" : "", //For validation
 				"cost" : 0, //For validation
-				"aiValue" : 0, //For validation
+//				"aiValue" : 0, //For validation
 				"range" : "X",
 				"battleEffects" : {
 					"obstacle" : {

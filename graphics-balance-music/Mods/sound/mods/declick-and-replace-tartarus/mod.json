@@ -2,6 +2,8 @@
 	"name" :			"Fixes: Declick Tartarus Units and Replace sound",
 	"description" :		"Declick sound for units and replace sound for T5 and T6",
 	"author" :			"Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"depends" : ["tartarus-town"],
 	"modType" :			"Creatures",
 	"russian" : {

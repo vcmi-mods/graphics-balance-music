@@ -2,7 +2,9 @@
 	"name" :			"Terrain: Heather Thicket Alt Music",
 	"description" :		"Alternative music for Heather Thicket from Heroes 2",
 	"author" :			"Dark Imagine",
-	"depends" : ["newtown-terrains.heatherThicket"],
+	"depends" : ["newtown-terrains.heatherthicket"],
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"modType" :			"Music",
 	"russian" : {
 		"name" : "Tерритория: Альтернативная музыка для Вереска",

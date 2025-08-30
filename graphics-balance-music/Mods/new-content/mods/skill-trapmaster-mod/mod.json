@@ -3,6 +3,8 @@
 	"description" : "Adds a new skill - Trap Master, creates a spike traps and bear traps at the beginning of the battle",
 	"author": "Dark Imagine",
     "modType" : "Skills",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"russian" : {
 		"name" : "Навык: Мастер Ловушек",
 		"description" : "Добавляет новый навык - Мастер Ловушек, в начале боя создает ловушки с шипами и капканы",

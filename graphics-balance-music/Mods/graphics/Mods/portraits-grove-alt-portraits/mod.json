@@ -2,6 +2,8 @@
 	"name" : "Portraits: Grove Alt Hero Portraits",
 	"description" : "Replaces Grove random portraits from the Warcraft 3 with random portraits Night Elves from the internet.",	
 	"author" : "Artists, Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"compatibility" :
 	{
 		"min" : "1.6.0"

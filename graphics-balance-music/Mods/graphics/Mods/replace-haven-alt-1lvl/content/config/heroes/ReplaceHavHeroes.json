@@ -5,7 +5,7 @@
 			"biography" : "'Sniff' seems like a mocking nickname, but he's really proud of his sense of smell. That's also the reason why foes who try to track him often find themselves waylaid instead.",
 			"specialty": {
 				"description": "Increases the Attack and Defense skills of any Rat or Battle Rat for each level attained after 1st level.",
-				"tooltip": "{Rats}\r\n\r\nIncreases the Attack and Defense skills of Rats or Battle Rats",
+				"tooltip": "Increases the Attack and Defense skills of Rats or Battle Rats",
 				"name": "Rats"
 			}
 		},
@@ -23,7 +23,7 @@
 			"biography" : "Gnawy learned a lot from the pirates, he was not skilled in navigation, but people often see wererats on her ship. Perhaps they consider him the leader.",
 			"specialty": {
 				"description": "Increases the Attack and Defense skills of any Wererat or Wererat Rager for each level attained after 2nd level.",
-				"tooltip": "{Wererats}\r\n\r\nIncreases the Attack and Defense skills of Wererat or Wererat Rager",
+				"tooltip": "Increases the Attack and Defense skills of Wererat or Wererat Rager",
 				"name": "Wererats"
 			}
 		},

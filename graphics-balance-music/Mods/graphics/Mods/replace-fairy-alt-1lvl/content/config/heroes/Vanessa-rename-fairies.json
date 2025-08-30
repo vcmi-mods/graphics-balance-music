@@ -3,7 +3,7 @@
 		"texts": {
 			"specialty": {
 				"description": "Increases the Attack and Defense skills of Flower Dragonets or Rainbow Dragonets or each level attained after 1st level.",
-				"tooltip": "{Dragonets}\r\n\r\nIncreases the Attack and Defense skills of Flower Dragonets or Rainbow Dragonets",
+				"tooltip": "Increases the Attack and Defense skills of Flower Dragonets or Rainbow Dragonets",
 				"name": "Dragonets"
 			}
 		},

@@ -3,6 +3,8 @@
 	"description" : "New content for the game",
 	"author" : "Dark Imagine",
 	"modType" : "Expansion",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"russian" : {
 		"name" : "Новый Контент",
 		"description" : "Новый контент для игры"

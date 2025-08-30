@@ -2,6 +2,8 @@
 	"name" : "Text: Rename TOW Couatl",
 	"description" : "Rename TOW couatl into Amphiptera to avoid confusion with the factory",	
 	"author" : "Dark Imagine",
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"compatibility" :
 	{
 		"min" : "1.6.0"

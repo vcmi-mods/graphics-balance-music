@@ -2,7 +2,9 @@
 	"name" :			"Terrain: Field of Glory Alt Music",
 	"description" :		"Replaces Field of Glory Terrain music with M&M 6 music",
 	"author" :			"Dark Imagine",
-	"depends" : ["newtown-terrains.fieldGloryTerrain"],
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
+	"depends" : ["newtown-terrains.fieldGloryterrain"],
 	"modType" :			"Music",
 	"russian" : {
 		"name" : "Tерритория: Альтернативная музыка для Места Славы",

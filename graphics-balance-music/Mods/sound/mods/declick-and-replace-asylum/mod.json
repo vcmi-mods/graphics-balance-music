@@ -3,6 +3,8 @@
 	"description" :		"Declick sound for units and replace sound for T2 and T7",
 	"author" :			"Dark Imagine",
 	"depends" : ["asylum-town"],
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"modType" :			"Creatures",
 	"russian" : {
 		"name" : "Фиксы: Антикликер для юнитов из Убежища",

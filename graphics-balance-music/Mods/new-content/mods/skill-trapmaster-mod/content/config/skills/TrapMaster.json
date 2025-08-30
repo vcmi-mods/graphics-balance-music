@@ -1,6 +1,7 @@
 {
 	"trapmaster": {
 		"name": "Trap Master",
+		"specialty" : [], // no generic specialty
 		"gainChance": {
 			"might": 3,
 			"magic": 1
@@ -9,13 +10,14 @@
 			"images": {
 				"small": "skills/TrapMaster/b-trapmaster-small",
 				"medium":"skills/TrapMaster/b-trapmaster-medium",
-				"large": "skills/TrapMaster/b-trapmaster-large"
+				"large": "skills/TrapMaster/b-trapmaster-large",
+				"scenarioBonus" : "skills/TrapMaster/blank"
 			},
 			"description": "{Basic Trap Master}\n\nTrap Master allows at the beginning of battle casts Spikes with spell power of 2.",
 			"effects" : {
 				"mine":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.SpikePit",
+				"subtype": "spikePit",
 				"val" : 2
 				}
 			}
@@ -24,23 +26,24 @@
 			"images": {
 				"small": "skills/TrapMaster/a-trapmaster-small",
 				"medium": "skills/TrapMaster/a-trapmaster-medium",
-				"large": "skills/TrapMaster/a-trapmaster-large"
+				"large": "skills/TrapMaster/a-trapmaster-large",
+				"scenarioBonus" : "skills/TrapMaster/blank"
 			},
 			"description": "{Advanced Trap Master\n\nTrap Master allows at the beginning of battle casts Spikes, Traps with spell power of 5.",
 			"effects" : {
 				"mine":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.SpikePit",
+				"subtype": "spikePit",
 				"val" : 5
 				},
 				"mine1":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.SpikePit",
+				"subtype": "spikePit",
 				"val" : 5
 				},
 				"sand":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.quicktrap",
+				"subtype": "quicktrap",
 				"val" : 5
 				}
 			}
@@ -49,33 +52,34 @@
 			"images": {
 				"small": "skills/TrapMaster/e-trapmaster-small",
 				"medium": "skills/TrapMaster/e-trapmaster-medium",
-				"large": "skills/TrapMaster/e-trapmaster-large"
+				"large": "skills/TrapMaster/e-trapmaster-large",
+				"scenarioBonus" : "skills/TrapMaster/blank"
 			},
 			"description": "{Expert Trap Master}\n\nTrap Master allows at the beginning of battle casts Spikes, Traps with spell power of 10.",
 			"effects" : {
 				"mine":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.SpikePit",
+				"subtype": "spikePit",
 				"val" : 10
 				},
 				"mine1":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.SpikePit",
+				"subtype": "spikePit",
 				"val" : 10
 				},
 				"mine2":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.SpikePit",
+				"subtype": "spikePit",
 				"val" : 10
 				},
 				"sand":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.quicktrap",
+				"subtype": "quicktrap",
 				"val" : 10
 				},
 				"sand1":{
 				"type": "OPENING_BATTLE_SPELL",
-				"subtype": "spell.quicktrap",
+				"subtype": "quicktrap",
 				"val" : 10
 				}
 			}

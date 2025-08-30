@@ -2,7 +2,9 @@
 	"name" :			"Terrain: One music in Iceland",
 	"description" :		"There can be only one!",
 	"author" :			"Dark Imagine",
-	"depends" : ["newtown-terrains.icelandTerrain"],
+	"depends" : ["newtown-terrains.icelandterrain"],
+	"version" : "1.0.0",	
+	"contact": "https://forum.vcmi.eu/t/my-collection-of-fixes-and-spices-for-mods/6280",	
 	"modType" :			"Music",
 	"russian" : {
 		"name" : "Tерритория: Одна музыка в Ледяном Покрове",
